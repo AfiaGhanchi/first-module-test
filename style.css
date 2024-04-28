@@ -1,15 +1,4 @@
-.button{
-    background-color: #FF4E50 #F9D423;
+* {
+
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgb(247, 231, 142));
 }
-*{
-    background-color: #F9D423;
-}
-.bg{
-    background-color: #F9D423;
-    margin: 0%;
-}
-@media (min-width: 159px) and(max-width:762) {
-    .imager{
-        margin-top: 250px !important;
-    }
-  }
